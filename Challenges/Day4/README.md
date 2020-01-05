@@ -1,4 +1,4 @@
-# Day 3 - Prime Numbers
+# Day 4 - Prime Numbers
 Evaluate how many primer numbers there are, up to the given integer.
 
 ## Description
