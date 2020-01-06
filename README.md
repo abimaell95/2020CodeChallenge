@@ -5,3 +5,4 @@ Every day resolve one code challenge. Can use any programming language.
 * [Day 2](https://github.com/abimaell95/2020CodeChallenge/tree/master/Challenges/Day2) - Rhyme Time
 * [Day 3](https://github.com/abimaell95/2020CodeChallenge/tree/master/Challenges/Day3) - Carrying the Digits
 * [Day 4](https://github.com/abimaell95/2020CodeChallenge/tree/master/Challenges/Day4) - Prime Numbers
+* [Day 5](https://github.com/abimaell95/2020CodeChallenge/tree/master/Challenges/Day5) - Bit Rotation
